@@ -23,6 +23,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/remyn/template-vscode-typescript.git"
   }
 }
