@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+        "outDir": "./built/",
+        "mapRoot": "built",
+		"sourceMap": true,
+		"watch": true,
+        "target": "es2016"
+	},
+    "include": [
+        "./src/**/*"
+    ],
+	"exclude": [
+		"node_modules"
+	]
+}

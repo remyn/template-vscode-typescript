@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+      // Controls if suggestions should automatically show up while typing
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  }
+}

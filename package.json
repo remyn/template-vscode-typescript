@@ -1,0 +1,28 @@
+{
+  "name": "templatetypescript",
+  "version": "1.0.0",
+  "description": "a basic template project for node.js",
+  "main": "built/app/app.js",
+  "dependencies": {
+    "@types/node": "^7.0.12",
+    "typescript": "^2.2.2"
+  },
+  "devDependencies": {
+    "@types/chai": "^3.5.0",
+    "@types/mocha": "^2.2.40",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha built/tests/**/*.test.js"
+  },
+  "author": {
+    "name": "remy nicolo",
+    "email": "remy.nicolo@reckon.com"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
